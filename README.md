@@ -54,3 +54,4 @@ Helpful links:
 
 - [Online and Offline Slides Using Markdown and Remark](https://galdebert.github.io/posts/remark-1/)
 - [Remark documentation](https://github.com/gnab/remark)
+- [Demo on my github.io](https://joshuascriven.github.io/democms)
