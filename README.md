@@ -15,7 +15,7 @@ Version 1 can be opened locally in your browser or it can be hosted online.
 
 ## Version 2: HTML File + Multiple or Single Markdown File(s)
 
-This version builds on the original code, but builds on modfications suggested by [eljefe6a](https://github.com/eljefe6a) to combine multiple markdown files from a specified folder. 
+This version is based on the default remark.js configuration, but also incorporates my modfications to suggestions made by [eljefe6a](https://github.com/eljefe6a) to combine multiple markdown files from a specified folder. 
 
 Parts of the repo needed for this version:
 - _assets_ folder
